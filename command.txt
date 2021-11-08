@@ -1,0 +1,11 @@
+// copy project
+git clone https://github.com/piseth/test1.git
+
+// add file to server
+git add home.html
+git commit -m "add home page"
+git push
+
+// update project
+git pull
+
